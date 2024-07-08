@@ -1,0 +1,19 @@
+{
+    "config1": "string0",
+    "config2": true,
+    "config3": 1,
+    "config4": {
+        "config4_sub1": 1,
+        "config4_sub2": "string",
+        "config4_sub3": [
+            1,
+            2,
+            3
+        ]
+    },
+    "config5": [
+        "string1",
+        "string2",
+        "string3"
+    ]
+}
